@@ -1,0 +1,224 @@
+{
+  "shopName": "Atlas Mobile",
+  "hours": {
+    "monday": "09:00-19:00",
+    "tuesday": "09:00-19:00",
+    "wednesday": "09:00-19:00",
+    "thursday": "09:00-19:00",
+    "friday": "09:00-12:00, 14:00-19:00",
+    "saturday": "10:00-17:00",
+    "sunday": "Closed"
+  },
+  "address": {
+    "street": "12 Rue Moulay Idriss",
+    "city": "Casablanca",
+    "postalCode": "20200",
+    "country": "Morocco"
+  },
+  "contact": {
+    "phone": "+212 661 234 567",
+    "email": "support@atlasmobile.ma",
+    "whatsapp": "+212 661 234 567"
+  },
+  "refundPolicy": "Customers may request a refund within 14 days of purchase if the device is returned in its original condition and packaging. Refunds are processed within 7 business days.",
+  "termsOfService": "By purchasing from Atlas Mobile, customers agree to our warranty, return, and privacy policies. Devices come with a 12-month limited warranty unless otherwise specified.",
+  "socialMedia": {
+    "facebook": "https://facebook.com/atlasmobile",
+    "instagram": "https://instagram.com/atlasmobile",
+    "tiktok": "https://tiktok.com/@atlasmobile"
+  },
+  "paymentMethods": "cash only", 
+  "products": [
+    {
+      "id": "p001",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "specs": {
+        "ram": "6GB",
+        "storage": "128GB",
+        "camera": "48MP + 12MP + 12MP",
+        "screen": "6.1-inch OLED",
+        "battery": "3200mAh"
+      },
+      "condition": "New",
+      "priceMAD": 13500,
+      "available": true,
+      "color": "Deep Purple",
+      "warrantyMonths": 12,
+      "releaseYear": 2022
+    },
+    {
+      "id": "p002",
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "specs": {
+        "ram": "12GB",
+        "storage": "256GB",
+        "camera": "200MP + 10MP + 10MP + 12MP",
+        "screen": "6.8-inch AMOLED",
+        "battery": "5000mAh"
+      },
+      "condition": "New",
+      "priceMAD": 14500,
+      "available": true,
+      "color": "Phantom Black",
+      "warrantyMonths": 12,
+      "releaseYear": 2023
+    },
+    {
+      "id": "p003",
+      "brand": "Xiaomi",
+      "model": "Mi 13 Pro",
+      "specs": {
+        "ram": "12GB",
+        "storage": "256GB",
+        "camera": "50MP + 50MP + 50MP",
+        "screen": "6.73-inch AMOLED",
+        "battery": "4820mAh"
+      },
+      "condition": "New",
+      "priceMAD": 8990,
+      "available": true,
+      "color": "Ceramic White",
+      "warrantyMonths": 12,
+      "releaseYear": 2023
+    },
+    {
+      "id": "p004",
+      "brand": "Google",
+      "model": "Pixel 7",
+      "specs": {
+        "ram": "8GB",
+        "storage": "128GB",
+        "camera": "50MP + 12MP",
+        "screen": "6.3-inch OLED",
+        "battery": "4355mAh"
+      },
+      "condition": "New",
+      "priceMAD": 7500,
+      "available": false,
+      "color": "Lemongrass",
+      "warrantyMonths": 12,
+      "releaseYear": 2022
+    },
+    {
+      "id": "p005",
+      "brand": "Apple",
+      "model": "iPhone 12 (Refurbished)",
+      "specs": {
+        "ram": "4GB",
+        "storage": "64GB",
+        "camera": "12MP + 12MP",
+        "screen": "6.1-inch OLED",
+        "battery": "2815mAh"
+      },
+      "condition": "Refurbished",
+      "priceMAD": 5200,
+      "available": true,
+      "color": "Black",
+      "warrantyMonths": 6,
+      "releaseYear": 2020
+    },
+    {
+      "id": "p006",
+      "brand": "Samsung",
+      "model": "Galaxy A54",
+      "specs": {
+        "ram": "6GB",
+        "storage": "128GB",
+        "camera": "50MP + 12MP + 5MP",
+        "screen": "6.4-inch AMOLED",
+        "battery": "5000mAh"
+      },
+      "condition": "New",
+      "priceMAD": 3800,
+      "available": true,
+      "color": "Awesome Lime",
+      "warrantyMonths": 12,
+      "releaseYear": 2023
+    },
+    {
+      "id": "p007",
+      "brand": "OnePlus",
+      "model": "OnePlus 11",
+      "specs": {
+        "ram": "16GB",
+        "storage": "256GB",
+        "camera": "50MP + 48MP + 32MP",
+        "screen": "6.7-inch AMOLED",
+        "battery": "5000mAh"
+      },
+      "condition": "New",
+      "priceMAD": 8400,
+      "available": true,
+      "color": "Eternal Green",
+      "warrantyMonths": 12,
+      "releaseYear": 2023
+    },
+    {
+      "id": "p008",
+      "brand": "Huawei",
+      "model": "P50 Pro",
+      "specs": {
+        "ram": "8GB",
+        "storage": "256GB",
+        "camera": "50MP + 64MP + 13MP + 40MP",
+        "screen": "6.6-inch OLED",
+        "battery": "4360mAh"
+      },
+      "condition": "New",
+      "priceMAD": 7600,
+      "available": false,
+      "color": "Golden Black",
+      "warrantyMonths": 12,
+      "releaseYear": 2022
+    },
+    {
+      "id": "p009",
+      "brand": "Infinix",
+      "model": "Zero Ultra",
+      "specs": {
+        "ram": "8GB",
+        "storage": "256GB",
+        "camera": "200MP + 13MP + 2MP",
+        "screen": "6.8-inch AMOLED",
+        "battery": "4500mAh"
+      },
+      "condition": "New",
+      "priceMAD": 3900,
+      "available": true,
+      "color": "Coslight Silver",
+      "warrantyMonths": 12,
+      "releaseYear": 2022
+    },
+    {
+      "id": "p010",
+      "brand": "Realme",
+      "model": "GT Neo 5",
+      "specs": {
+        "ram": "16GB",
+        "storage": "256GB",
+        "camera": "50MP + 8MP + 2MP",
+        "screen": "6.74-inch AMOLED",
+        "battery": "5000mAh"
+      },
+      "condition": "New",
+      "priceMAD": 5700,
+      "available": true,
+      "color": "Purple Realm",
+      "warrantyMonths": 12,
+      "releaseYear": 2023
+    }
+  ], 
+  "promotions": [
+    {
+      "id": "promo001",
+      "title": "Summer Sale",
+      "description": "Get 10% off on all smartphones during the summer season.",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-31",
+      "discountPercentage": 10
+    }
+
+  ]
+}
